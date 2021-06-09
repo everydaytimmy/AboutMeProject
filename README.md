@@ -1,14 +1,5 @@
 # AboutMeProject
-This is my About Me project
+This is not a fully completed project. 
 
-### Author: All of Us
+I started this to get more preactive implementeing Bootstrap and working with other people's code. 
 
-### Links and Resources
-
-- [PR link](http://somewhere.com)
-- Other links
-
-### Reflections and Comments
-
-- more stuff
-- even more stuff
